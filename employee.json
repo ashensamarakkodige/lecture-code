@@ -1,0 +1,13 @@
+[
+	{
+		"employee_id": 1236937,
+		"name": "Jeff Fox",
+		"hire_date": "1/1/2013",
+		"location": "Norwalk, CT",
+		"consultant": false,
+	 "random_nums": [24,65,12,94]
+	},
+	{
+		"name": "Patrick"
+	}
+]
