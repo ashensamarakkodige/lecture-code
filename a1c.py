@@ -15,6 +15,9 @@ class Shape:
     def __str__(self):
         return f"{self.type} with area size {self.area}"
 
+    # def print(self):
+    #     print(f"{self.type} with area size {self.area}")
+
 
 i = 1
 for data in shapes:
